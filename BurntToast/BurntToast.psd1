@@ -34,8 +34,9 @@
             ProjectUri = 'https://github.com/Windos/BurntToast'
             IconUri = 'https://cdn.rawgit.com/Windos/BurntToast/master/Media/BurntToast-Logo.png'
             ReleaseNotes = '
+* Updated bundled UWP Community Toolkit to version 2.1.1
 * Fixed looping sounds in New-BurntToastNotification
-* 
+*
 '
         }
     }

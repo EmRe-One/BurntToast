@@ -39,6 +39,7 @@ Download [BurntToast.zip](https://github.com/Windos/BurntToast/releases/download
 **Please note:** as of v0.5.0, BurntToast no longer works on Windows 8.
 
 * [v0.6.2](https://github.com/Windos/BurntToast/releases/download/v0.6.2/BurntToast.zip)
+    * Updated bundled UWP Community Toolkit to version 2.1.1
     * Fixed looping sounds in New-BurntToastNotification
     *
 * [v0.6.1](https://github.com/Windos/BurntToast/releases/download/v0.6.1/BurntToast.zip)
